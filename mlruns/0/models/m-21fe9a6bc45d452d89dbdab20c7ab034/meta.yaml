@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/models/m-21fe9a6bc45d452d89dbdab20c7ab034/artifacts
+creation_timestamp: 1750980255398
+experiment_id: '0'
+last_updated_timestamp: 1750980262593
+model_id: m-21fe9a6bc45d452d89dbdab20c7ab034
+model_type: null
+name: model
+source_run_id: 6a04e2ecf9d74198bd184c23094ce290
+status: 2
+status_message: null

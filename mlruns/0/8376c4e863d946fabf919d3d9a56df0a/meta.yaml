@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/8376c4e863d946fabf919d3d9a56df0a/artifacts
+end_time: 1750981090213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8376c4e863d946fabf919d3d9a56df0a
+run_name: redolent-gnat-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750981089956
+status: 3
+tags: []
+user_id: erand

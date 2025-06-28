@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/6a04e2ecf9d74198bd184c23094ce290/artifacts
+end_time: 1750980262606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a04e2ecf9d74198bd184c23094ce290
+run_name: vaunted-mink-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750980255076
+status: 3
+tags: []
+user_id: erand

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/models/m-21fe9a6bc45d452d89dbdab20c7ab034/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-21fe9a6bc45d452d89dbdab20c7ab034
+model_size_bytes: 158512
+model_uuid: m-21fe9a6bc45d452d89dbdab20c7ab034
+prompts: null
+run_id: 6a04e2ecf9d74198bd184c23094ce290
+utc_time_created: '2025-06-26 23:24:15.445134'

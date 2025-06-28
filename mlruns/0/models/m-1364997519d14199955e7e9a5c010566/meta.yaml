@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/models/m-1364997519d14199955e7e9a5c010566/artifacts
+creation_timestamp: 1750980094873
+experiment_id: '0'
+last_updated_timestamp: 1750980101366
+model_id: m-1364997519d14199955e7e9a5c010566
+model_type: null
+name: model
+source_run_id: 98d749ac89464096bfb800c79d4d81b7
+status: 2
+status_message: null

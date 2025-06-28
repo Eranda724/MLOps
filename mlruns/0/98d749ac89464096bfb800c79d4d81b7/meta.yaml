@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/98d749ac89464096bfb800c79d4d81b7/artifacts
+end_time: 1750980101383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98d749ac89464096bfb800c79d4d81b7
+run_name: languid-toad-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750980094591
+status: 3
+tags: []
+user_id: erand
