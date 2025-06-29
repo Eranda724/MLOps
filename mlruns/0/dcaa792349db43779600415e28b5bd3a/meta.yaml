@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/erand/OneDrive%20-%20University%20of%20Jaffna/LLM/MLOps/mlruns/0/dcaa792349db43779600415e28b5bd3a/artifacts
+end_time: 1751193773433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcaa792349db43779600415e28b5bd3a
+run_name: exultant-ray-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751193773197
+status: 3
+tags: []
+user_id: erand
